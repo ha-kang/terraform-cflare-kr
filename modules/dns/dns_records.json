@@ -1,0 +1,366 @@
+{
+  "result": [
+    {
+      "id": "4fb9d34f50a6ada9d4d694af48b11fb6",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "api.cflare.kr",
+      "type": "A",
+      "content": "3.36.132.43",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2021-09-23T08:06:35.958171Z",
+      "modified_on": "2024-10-10T07:22:15.685471Z"
+    },
+    {
+      "id": "360b4f30de159e817e12030a39834df5",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "api-gateway.cflare.kr",
+      "type": "A",
+      "content": "35.232.8.56",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2022-12-15T07:22:11.495425Z",
+      "modified_on": "2022-12-15T07:22:11.495425Z"
+    },
+    {
+      "id": "c48ac4e10ba686550921df96b02a4f85",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "baekjun.cflare.kr",
+      "type": "A",
+      "content": "13.125.84.218",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2022-11-29T10:37:55.194628Z",
+      "modified_on": "2024-11-05T06:33:39.134636Z"
+    },
+    {
+      "id": "32ed9d079b5b2a0880a9540c54e45026",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "hakang.cflare.kr",
+      "type": "A",
+      "content": "3.36.132.43",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-10-14T12:12:48.784477Z",
+      "modified_on": "2024-10-14T12:12:48.784477Z"
+    },
+    {
+      "id": "41d29f1a44a3eeb5cd44e9abe6a3ba0e",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "hkk-cdn.cflare.kr",
+      "type": "A",
+      "content": "13.125.167.37",
+      "proxiable": true,
+      "proxied": false,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-06-05T06:39:07.828421Z",
+      "modified_on": "2024-06-05T07:05:13.905708Z"
+    },
+    {
+      "id": "0c06ba7f8e4bee8161d3ddc85974fd43",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "hkk.cflare.kr",
+      "type": "A",
+      "content": "13.125.167.37",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-06-12T01:07:55.87283Z",
+      "modified_on": "2024-06-12T01:07:55.87283Z"
+    },
+    {
+      "id": "d48bbe9df24b52340d943b3c1100866d",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "saas.cflare.kr",
+      "type": "A",
+      "content": "3.36.132.43",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "fallback_origin": true,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2022-08-18T04:34:13.126805Z",
+      "modified_on": "2023-11-22T09:43:35.577224Z"
+    },
+    {
+      "id": "17d426e1b0d7ee11f7b6d699d7bb8b16",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "sunni1227.cflare.kr",
+      "type": "A",
+      "content": "3.36.132.43",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-10-11T02:13:16.801646Z",
+      "modified_on": "2024-10-11T02:13:16.801646Z"
+    },
+    {
+      "id": "cf5d7734cfd2ac6551755d9fba267e4f",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "test.cflare.kr",
+      "type": "AAAA",
+      "content": "2606:4700::6812:127b",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2022-04-18T08:29:09.931012Z",
+      "modified_on": "2022-04-18T08:29:09.931012Z"
+    },
+    {
+      "id": "56bd576fe50888f0bfd7157954b35cc7",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "bucket.cflare.kr",
+      "type": "CNAME",
+      "content": "public.r2.dev",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {
+        "flatten_cname": false
+      },
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false,
+        "r2_bucket": "megazone",
+        "read_only": true
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2023-01-17T02:19:35.846753Z",
+      "modified_on": "2023-01-17T02:19:35.846753Z"
+    },
+    {
+      "id": "e1e689da743ff6a3926e121923ad9f7a",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "maintenance.cflare.kr",
+      "type": "CNAME",
+      "content": "pages-test-387.pages.dev",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {
+        "flatten_cname": false
+      },
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2023-07-24T03:08:15.121599Z",
+      "modified_on": "2023-07-24T03:08:15.121599Z"
+    },
+    {
+      "id": "21f6482cf9ebac4668afe91777d1eeab",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "r2logs.cflare.kr",
+      "type": "CNAME",
+      "content": "public.r2.dev",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {
+        "flatten_cname": false
+      },
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false,
+        "r2_bucket": "logs",
+        "read_only": true
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2023-03-07T03:58:09.777833Z",
+      "modified_on": "2023-03-07T03:58:09.777833Z"
+    },
+    {
+      "id": "2e37fa2b5690ad1820706bc2dbbeb1c4",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "usage.cflare.kr",
+      "type": "CNAME",
+      "content": "pages-359.pages.dev",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {
+        "flatten_cname": false
+      },
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-10-10T09:47:52.425605Z",
+      "modified_on": "2024-10-10T09:47:52.425605Z"
+    },
+    {
+      "id": "462292a4f18cfc5fa36bfbac268972ba",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "cloudflare-ip.cflare.kr",
+      "type": "AAAA",
+      "content": "100::",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false,
+        "origin_worker_id": "1ff33540a6f70db9f3881e1a9f539a056f95e3de"
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-10-21T03:06:38.699148Z",
+      "modified_on": "2024-10-21T03:06:38.699148Z"
+    },
+    {
+      "id": "f9af1e5e6bfb1bceb5dbff6db454a593",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "maintenance-page.cflare.kr",
+      "type": "AAAA",
+      "content": "100::",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false,
+        "origin_worker_id": "155fcb13ec8057f9e8a7f4f98d1b546f161589f3"
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-02-28T08:20:58.25101Z",
+      "modified_on": "2024-02-28T08:20:58.25101Z"
+    },
+    {
+      "id": "638810bc16d32b9d03df46c675de596c",
+      "zone_id": "f62daf3a7a5175d48a380806c4b1f473",
+      "zone_name": "cflare.kr",
+      "name": "usage-trigger.cflare.kr",
+      "type": "AAAA",
+      "content": "100::",
+      "proxiable": true,
+      "proxied": true,
+      "ttl": 1,
+      "settings": {},
+      "meta": {
+        "auto_added": false,
+        "managed_by_apps": false,
+        "managed_by_argo_tunnel": false,
+        "origin_worker_id": "2c778de2d28b82d13335fa488eb70f64a6703b2c"
+      },
+      "comment": null,
+      "tags": [],
+      "created_on": "2024-11-05T08:54:16.238275Z",
+      "modified_on": "2024-11-05T08:54:16.238275Z"
+    }
+  ],
+  "success": true,
+  "errors": [],
+  "messages": [],
+  "result_info": {
+    "page": 1,
+    "per_page": 100,
+    "count": 16,
+    "total_count": 16,
+    "total_pages": 1
+  }
+}
