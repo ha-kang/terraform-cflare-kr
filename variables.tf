@@ -9,6 +9,7 @@ variable "cloudflare_zone_id" {
   type        = string
 }
 
+
 variable "environment" {
   description = "Environment (prod/dev)"
   type        = string
